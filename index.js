@@ -1,5 +1,5 @@
 /*
  * Repository for Advent of Coding 2022
  */
-import four from './src/four.js';
-four();
+import five from './src/five.js';
+five();
